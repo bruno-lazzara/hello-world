@@ -2,4 +2,4 @@
 Hello World guide
 
 Hello! My name Bruno, I'm from Brazil.
-I'm interested in web and mobile development, HTML5, CSS, Bootstrap, Javascript, JQuery, React, React Native, SQL.
+I'm interested in desktop, web and mobile development, using C#, .NET, Java.
